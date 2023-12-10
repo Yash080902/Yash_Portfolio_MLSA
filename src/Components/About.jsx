@@ -17,9 +17,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from ".images/campaign-creators-pypeCEaJeZY-unsplash.jpg";
+import image from "../images/Dataanalyst.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "data analyst ";
 
 /**
  * Sort description that expands on your title on the Home component.
